@@ -1,7 +1,7 @@
-function ProjectsCard() {
+function ProjectsCard({project}) {
     return ( 
         <div className=" bg-white rounded-xl shadow-lg overflow-hidden">
-            <img src="{project.image}" alt={project.title} />
+            <img src={project.image} alt={project.title} className="h-48 w-full object-cover" />
             <div className="p-4">
             <h3 className="text-xl font-bold">{project.title}</h3>
             <p className="text-gray-600">{project.description}</p>

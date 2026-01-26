@@ -3,21 +3,24 @@ const projects = [
        
         title: "Portfolio Macbook",
         description: "A personal portfolio website to showcase my projects and skills whit React.",
-        imageUrl: "/images/portfolio.png",
-        live:"https://portfolio-wine-beta-64.vercel.app/"
+        image: "/images/app.jpg",
+        live:"https://portfolio-wine-beta-64.vercel.app/",
+        github:"https://github.com/danielbaradaran31-hash/Portfolio-Macbook"
       },
     {
         title: "E-commerce Store Magic Schuhe",  
         description: "An online store built with React and Redux for state management.",
-        imageUrl: "/images/ecommerce.png",
-        live:"https://magic-schuhe.vercel.app/"
+        image: "/images/Magic-Schuhe.jpg",
+        live:"https://magic-schuhe.vercel.app/",
+        github:"https://github.com/danielbaradaran31-hash/Magic-Schuhe"
         },
 
 
     { title: "E-commerce Store Sushi Kushi",  
         description: "An online store built with React and Redux for state management.",
-        imageUrl: "/images/ecommerce.png",
-        live:"https://magic-schuhe.vercel.app/"
+        image: "/images/Sushi-Kushi.jpg",
+        live:"https://sushi-english-vite.vercel.app/",
+        github:"https://github.com/danielbaradaran31-hash/Sushi-Kushi",
     },
 ];
 
