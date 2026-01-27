@@ -47,13 +47,15 @@ function Hero() {
       >
         <a
           href="/projects"
-          className="px-6 py-3 bg-black text-white rounded-lg hover:scale-105 transition dark:bg-white dark:text-black"
+          className="px-6 py-3 bg-black text-white rounded-lg 
+          hover:scale-105 transition dark:bg-white
+           dark:text-black"
         >
           View My Work
         </a>
 
         <a
-          href="/resume.pdf"
+          href="/images/resume.pdf"
           download
           className="px-6 py-3 border rounded-lg hover:bg-gray-200 dark:hover:bg-gray-700 transition"
         >
