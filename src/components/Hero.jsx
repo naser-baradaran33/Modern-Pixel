@@ -25,7 +25,7 @@ function Hero() {
         transition={{ delay: 0.5 }}
         className="text-5xl md:text-6xl font-bold mb-6"
       >
-        Hi, I'm a React Developer 👋
+        Hi, I'm a Frontend Developer 👋
       </motion.h2>
 
       {/* Description */}
@@ -51,7 +51,7 @@ function Hero() {
           hover:scale-105 transition dark:bg-white
            dark:text-black"
         >
-          View My Work
+          View My Projects
         </a>
 
         <a
