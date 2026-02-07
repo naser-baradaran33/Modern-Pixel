@@ -1,7 +1,7 @@
 const projects = [
     { title: "E-commerce Store Iran Cafe",  
         description: "Iran Cafe — Animated React Website A modern, animation‑driven cocktail website built with React, GSAP, and TailwindCSS. The project features smooth scroll‑based animations, masked image reveals, and a fully responsive layout.",
-        image: "/images/abt5.jpg",
+        image: "/images/IranCafe.png",
         live:"https://crystal-shaker.vercel.app/",
         github:"https://github.com/danielbaradaran31-hash/Crystal-Shaker",
     },
