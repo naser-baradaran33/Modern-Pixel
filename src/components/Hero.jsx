@@ -55,7 +55,7 @@ function Hero() {
         </a>
 
         <a
-          href="/images/rezume.pdf"
+          href="/images/resume.pdf"
           download
           className="px-6 py-3 border rounded-lg hover:bg-gray-200 dark:hover:bg-gray-700 transition"
         >
