@@ -3,20 +3,20 @@ import { motion } from "framer-motion";
 function ProjectCard({ project }) {
   return (
     <motion.div
-      initial={{ opacity: 0, y: 50 }}
+      initial={{ opacity: 1, y: 50 }}
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true }}
-      transition={{ duration: 0.6 }}
+      transition={{ duration: 0.3 }}
       className="bg-white dark:bg-gray-800 rounded-xl shadow-lg overflow-hidden hover:shadow-2xl hover:-translate-y-2 transition duration-300"
     >
       <img
         src={project.image}
         alt={project.title}
         loading="lazy"
-        className="h-48 w-full object-cover"
+        className="h-80 w-full object-cover"
       />
 
-      <div className="p-5">
+      <div className="p-6">
         <h3 className="text-xl font-bold mb-2">{project.title}</h3>
         <p className="text-gray-600 dark:text-gray-300 mb-4">
           {project.description}
