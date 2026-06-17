@@ -9,7 +9,7 @@ const projects = [
        
         title: "AI-Powered Signalist (Full-Stack)",
         description: "Real‑Time Stock Market Insights & AI‑Powered Watchlists Signalist is a modern, high‑performance stock market analytics platform built with Next.js 14, BetterAuth, MongoDB, Finnhub, Gemini AI, and Inngest. It provides real‑time stock data, personalized watchlists, AI‑generated insights, and automated background jobs — all deployed on Vercel",
-        image: "/images/Signalist.png",
+        image: "/images/stockmarkt.png",
         live:"https://www.viewsignal.space/",
         github:"https://github.com/danielbaradaran31-hash/view-signal"
       },
