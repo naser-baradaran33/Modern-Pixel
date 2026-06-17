@@ -1,15 +1,20 @@
 import { motion } from "framer-motion";
 
 const skills = [
-  { name: "React", level: 85 },
-  { name: "Next.Js", level: 80 },
-  { name: "JavaScript", level: 90 },
-  { name: "TypeScript", level: 75 },
-  { name: "HTML & CSS", level: 95 },
-  { name: "Tailwind CSS", level: 85 },
-  { name: "NextAuth.js", level: 85 },
-  { name: "Redux", level: 90 },
-  { name: "Git & GitHub", level: 80 },
+  { name: "React", level: 95 },
+  { name: "Next.Js", level: 95 },
+  { name: "JavaScript", level: 100 },
+  { name: "TypeScript", level: 100 },
+  { name: "Convex", level: 95 },
+  { name: "Node.js", level: 85 },
+  { name: "MongoDB", level: 95 },
+  { name: "Inngest", level: 95 },
+  { name: "Firebase", level: 95 },
+  { name: "Docker", level: 85 },
+  { name: "Tailwind CSS", level: 100 },
+  { name: "REST APIs", level: 85 },
+  { name: "Redux & Zustand", level: 90 },
+  { name: "Git & GitHub", level: 100 },
 ];
 
 function Skills() {
