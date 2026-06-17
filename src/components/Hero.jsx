@@ -36,7 +36,7 @@ function Hero() {
         className="max-w-xl text-lg text-gray-600 dark:text-gray-300"
       >
             Frontend Developer specializing in React and Next.js
-             Building scalable and modern web applications
+             Building scalable and modern web applications and AI Integration. Passionate about creating seamless user experiences and writing clean, efficient code.
       </motion.p>
 
       {/* Buttons */}
