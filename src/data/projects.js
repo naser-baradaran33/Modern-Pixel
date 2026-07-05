@@ -7,6 +7,14 @@ const projects = [
     },
     {
        
+        title: "AI-Powered Browser IDE",
+        description: "A complete development environment running entirely in the browser — no local setup needed.What makes it unique:Full IDE: Editor (CodeMirror 6) + File tree + Live Preview + Terminal (xterm). Agent-based code engine with tool-oriented file processing.⚡️ Async AI orchestration via Inngest (decoupled from UI).🔄 Real-time sync via Convex | Live execution via WebContainer API",
+        image: "/images/foto-todo.png",
+        live:"https://www.viewsignal.space/",
+        github:"https://flow-code-ai-rxe4.vercel.app/",
+      },
+    {
+       
         title: "AI-Powered Signalist (Full-Stack)",
         description: "Real‑Time Stock Market Insights & AI‑Powered Watchlists Signalist is a modern, high‑performance stock market analytics platform built with Next.js 14, BetterAuth, MongoDB, Finnhub, Gemini AI, and Inngest. It provides real‑time stock data, personalized watchlists, AI‑generated insights, and automated background jobs — all deployed on Vercel",
         image: "/images/stockmarkt.png",
